@@ -1,4 +1,4 @@
 # hello-world
  Első feladat
  Teszt tartalom
-Adom
+ Miért nem működsz te szar
